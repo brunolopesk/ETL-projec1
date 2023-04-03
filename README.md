@@ -53,10 +53,10 @@ As etapas foram:
 )
 
 Algumas questões de negócio que hipotéticamente lançadas:
--- Qual total de clientes no banco antes da análise de churn?
--- Quantos clientes deixaram o banco? 
--- Quantos clientes são homens e quantos são mulheres?
--- Qual a média de idade dos clientes que deixaram o banco? 
--- Qual a média de idade dos clientes que NÃO deixaram o banco? 
--- Qual o país onde os clientes mais abandonam o banco?
--- O Churn pode ter alguma relação com a quantidade de serviços oferecidos?
+- Qual total de clientes no banco antes da análise de churn?
+- Quantos clientes deixaram o banco? 
+- Quantos clientes são homens e quantos são mulheres?
+- Qual a média de idade dos clientes que deixaram o banco? 
+- Qual a média de idade dos clientes que NÃO deixaram o banco? 
+- Qual o país onde os clientes mais abandonam o banco?
+- O Churn pode ter alguma relação com a quantidade de serviços oferecidos?
