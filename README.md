@@ -34,7 +34,7 @@ As etapas foram:
  
 - Criando a tabela com todas as colunas do dataset;
 
-    CREATE Table churnmodeling(
+    CREATE Table churnmodeling
     
         RowNumber INT, -- Números de linha de 1 a 10000
         CustomerId INT, -- Ids exclusivos para identificação do cliente
@@ -50,7 +50,6 @@ As etapas foram:
         IsActiveMember INT, -- Se o cliente é um mebro ativo ou não do banco
         EstimatedSalary FLOAT, -- Salário aproximado do cliente
         Exited INT -- Se o cliente deixou ou não o banco;
-)
 
 Algumas questões de negócio que hipotéticamente lançadas:
 - Quantos clientes deixaram o banco? 
