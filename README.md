@@ -58,3 +58,8 @@ Algumas questões de negócio que hipotéticamente lançadas:
 - Qual a média de idade dos clientes que NÃO deixaram o banco? 
 - Qual o país onde houve maior número de churn?
 - O churn pode ter alguma relação com a quantidade de serviços oferecidos?
+
+Estas perguntas foram respondidas utilizando consultas no banco de dados SQL e as respostas se encontram no arquivo "Create SQLQuery1.sql" deste projeto.
+
+
+
